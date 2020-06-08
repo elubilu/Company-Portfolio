@@ -66554,6 +66554,631 @@ render._withStripped = true
 
 /***/ }),
 
+/***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/pages/about.vue?vue&type=template&id=773ca787&":
+/*!**************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/pages/about.vue?vue&type=template&id=773ca787& ***!
+  \**************************************************************************************************************************************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "render", function() { return render; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return staticRenderFns; });
+var render = function() {
+  var _vm = this
+  var _h = _vm.$createElement
+  var _c = _vm._self._c || _h
+  return _vm._m(0)
+}
+var staticRenderFns = [
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", [
+      _c("section", { staticClass: "about", attrs: { id: "about" } }, [
+        _c("div", { staticClass: "container" }, [
+          _c("div", { staticClass: "row" }, [
+            _c("div", { staticClass: "col-lg-6" }, [
+              _c("img", {
+                staticClass: "img-fluid",
+                attrs: { src: "assets/img/about.jpg", alt: "" }
+              })
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "col-lg-6 pt-4 pt-lg-0 content" }, [
+              _c("h3", [
+                _vm._v(
+                  "Voluptatem dignissimos provident quasi corporis voluptates sit assumenda."
+                )
+              ]),
+              _vm._v(" "),
+              _c("p", { staticClass: "font-italic" }, [
+                _vm._v(
+                  "\n            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore\n            magna aliqua.\n            "
+                )
+              ]),
+              _vm._v(" "),
+              _c("ul", [
+                _c("li", [
+                  _c("i", { staticClass: "icofont-check-circled" }),
+                  _vm._v(
+                    " Ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                  )
+                ]),
+                _vm._v(" "),
+                _c("li", [
+                  _c("i", { staticClass: "icofont-check-circled" }),
+                  _vm._v(
+                    " Duis aute irure dolor in reprehenderit in voluptate velit."
+                  )
+                ]),
+                _vm._v(" "),
+                _c("li", [
+                  _c("i", { staticClass: "icofont-check-circled" }),
+                  _vm._v(
+                    " Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat nulla pariatur."
+                  )
+                ])
+              ]),
+              _vm._v(" "),
+              _c("p", [
+                _vm._v(
+                  "\n            Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate\n            velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in\n            culpa qui officia deserunt mollit anim id est laborum\n            "
+                )
+              ])
+            ])
+          ])
+        ])
+      ]),
+      _vm._v(" "),
+      _c("section", { staticClass: "counts", attrs: { id: "counts" } }, [
+        _c("div", { staticClass: "container" }, [
+          _c("div", { staticClass: "row no-gutters" }, [
+            _c(
+              "div",
+              {
+                staticClass:
+                  "col-lg-3 col-md-6 d-md-flex align-items-md-stretch"
+              },
+              [
+                _c("div", { staticClass: "count-box" }, [
+                  _c("i", { staticClass: "icofont-simple-smile" }),
+                  _vm._v(" "),
+                  _c("span", { attrs: { "data-toggle": "counter-up" } }, [
+                    _vm._v("232")
+                  ]),
+                  _vm._v(" "),
+                  _c("p", [
+                    _c("strong", [_vm._v("Happy Clients")]),
+                    _vm._v(" consequuntur quae qui deca rode")
+                  ]),
+                  _vm._v(" "),
+                  _c("a", { attrs: { href: "#" } }, [_vm._v("Find out more »")])
+                ])
+              ]
+            ),
+            _vm._v(" "),
+            _c(
+              "div",
+              {
+                staticClass:
+                  "col-lg-3 col-md-6 d-md-flex align-items-md-stretch"
+              },
+              [
+                _c("div", { staticClass: "count-box" }, [
+                  _c("i", { staticClass: "icofont-document-folder" }),
+                  _vm._v(" "),
+                  _c("span", { attrs: { "data-toggle": "counter-up" } }, [
+                    _vm._v("521")
+                  ]),
+                  _vm._v(" "),
+                  _c("p", [
+                    _c("strong", [_vm._v("Projects")]),
+                    _vm._v(" adipisci atque cum quia aut numquam delectus")
+                  ]),
+                  _vm._v(" "),
+                  _c("a", { attrs: { href: "#" } }, [_vm._v("Find out more »")])
+                ])
+              ]
+            ),
+            _vm._v(" "),
+            _c(
+              "div",
+              {
+                staticClass:
+                  "col-lg-3 col-md-6 d-md-flex align-items-md-stretch"
+              },
+              [
+                _c("div", { staticClass: "count-box" }, [
+                  _c("i", { staticClass: "icofont-live-support" }),
+                  _vm._v(" "),
+                  _c("span", { attrs: { "data-toggle": "counter-up" } }, [
+                    _vm._v("1,463")
+                  ]),
+                  _vm._v(" "),
+                  _c("p", [
+                    _c("strong", [_vm._v("Hours Of Support")]),
+                    _vm._v(" aut commodi quaerat. Aliquam ratione")
+                  ]),
+                  _vm._v(" "),
+                  _c("a", { attrs: { href: "#" } }, [_vm._v("Find out more »")])
+                ])
+              ]
+            ),
+            _vm._v(" "),
+            _c(
+              "div",
+              {
+                staticClass:
+                  "col-lg-3 col-md-6 d-md-flex align-items-md-stretch"
+              },
+              [
+                _c("div", { staticClass: "count-box" }, [
+                  _c("i", { staticClass: "icofont-users-alt-5" }),
+                  _vm._v(" "),
+                  _c("span", { attrs: { "data-toggle": "counter-up" } }, [
+                    _vm._v("15")
+                  ]),
+                  _vm._v(" "),
+                  _c("p", [
+                    _c("strong", [_vm._v("Hard Workers")]),
+                    _vm._v(" rerum asperiores dolor molestiae doloribu")
+                  ]),
+                  _vm._v(" "),
+                  _c("a", { attrs: { href: "#" } }, [_vm._v("Find out more »")])
+                ])
+              ]
+            )
+          ])
+        ])
+      ]),
+      _vm._v(" "),
+      _c("section", { staticClass: "clients", attrs: { id: "clients" } }, [
+        _c("div", { staticClass: "container" }, [
+          _c("div", { staticClass: "section-title" }, [
+            _c("h2", [_vm._v("Clients")]),
+            _vm._v(" "),
+            _c("p", [
+              _vm._v(
+                "Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas."
+              )
+            ])
+          ]),
+          _vm._v(" "),
+          _c("div", { staticClass: "owl-carousel clients-carousel" }, [
+            _c("img", {
+              attrs: { src: "assets/img/clients/client-1.png", alt: "" }
+            }),
+            _vm._v(" "),
+            _c("img", {
+              attrs: { src: "assets/img/clients/client-2.png", alt: "" }
+            }),
+            _vm._v(" "),
+            _c("img", {
+              attrs: { src: "assets/img/clients/client-3.png", alt: "" }
+            }),
+            _vm._v(" "),
+            _c("img", {
+              attrs: { src: "assets/img/clients/client-4.png", alt: "" }
+            }),
+            _vm._v(" "),
+            _c("img", {
+              attrs: { src: "assets/img/clients/client-5.png", alt: "" }
+            }),
+            _vm._v(" "),
+            _c("img", {
+              attrs: { src: "assets/img/clients/client-6.png", alt: "" }
+            }),
+            _vm._v(" "),
+            _c("img", {
+              attrs: { src: "assets/img/clients/client-7.png", alt: "" }
+            }),
+            _vm._v(" "),
+            _c("img", {
+              attrs: { src: "assets/img/clients/client-8.png", alt: "" }
+            })
+          ])
+        ])
+      ]),
+      _vm._v(" "),
+      _c(
+        "section",
+        { staticClass: "testimonials", attrs: { id: "testimonials" } },
+        [
+          _c("div", { staticClass: "container" }, [
+            _c("div", { staticClass: "section-title" }, [
+              _c("h2", [_vm._v("Testimonials")]),
+              _vm._v(" "),
+              _c("p", [
+                _vm._v(
+                  "Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas."
+                )
+              ])
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "row" }, [
+              _c("div", { staticClass: "col-lg-6" }, [
+                _c("div", { staticClass: "testimonial-item" }, [
+                  _c("img", {
+                    staticClass: "testimonial-img",
+                    attrs: {
+                      src: "assets/img/testimonials/testimonials-1.jpg",
+                      alt: ""
+                    }
+                  }),
+                  _vm._v(" "),
+                  _c("h3", [_vm._v("Saul Goodman")]),
+                  _vm._v(" "),
+                  _c("h4", [_vm._v("Ceo & Founder")]),
+                  _vm._v(" "),
+                  _c("p", [
+                    _c("i", {
+                      staticClass: "bx bxs-quote-alt-left quote-icon-left"
+                    }),
+                    _vm._v(
+                      "\n                Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.\n                "
+                    ),
+                    _c("i", {
+                      staticClass: "bx bxs-quote-alt-right quote-icon-right"
+                    })
+                  ])
+                ])
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "col-lg-6" }, [
+                _c("div", { staticClass: "testimonial-item mt-4 mt-lg-0" }, [
+                  _c("img", {
+                    staticClass: "testimonial-img",
+                    attrs: {
+                      src: "assets/img/testimonials/testimonials-2.jpg",
+                      alt: ""
+                    }
+                  }),
+                  _vm._v(" "),
+                  _c("h3", [_vm._v("Sara Wilsson")]),
+                  _vm._v(" "),
+                  _c("h4", [_vm._v("Designer")]),
+                  _vm._v(" "),
+                  _c("p", [
+                    _c("i", {
+                      staticClass: "bx bxs-quote-alt-left quote-icon-left"
+                    }),
+                    _vm._v(
+                      "\n                Export tempor illum tamen malis malis eram quae irure esse labore quem cillum quid cillum eram malis quorum velit fore eram velit sunt aliqua noster fugiat irure amet legam anim culpa.\n                "
+                    ),
+                    _c("i", {
+                      staticClass: "bx bxs-quote-alt-right quote-icon-right"
+                    })
+                  ])
+                ])
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "col-lg-6" }, [
+                _c("div", { staticClass: "testimonial-item mt-4" }, [
+                  _c("img", {
+                    staticClass: "testimonial-img",
+                    attrs: {
+                      src: "assets/img/testimonials/testimonials-3.jpg",
+                      alt: ""
+                    }
+                  }),
+                  _vm._v(" "),
+                  _c("h3", [_vm._v("Jena Karlis")]),
+                  _vm._v(" "),
+                  _c("h4", [_vm._v("Store Owner")]),
+                  _vm._v(" "),
+                  _c("p", [
+                    _c("i", {
+                      staticClass: "bx bxs-quote-alt-left quote-icon-left"
+                    }),
+                    _vm._v(
+                      "\n                Enim nisi quem export duis labore cillum quae magna enim sint quorum nulla quem veniam duis minim tempor labore quem eram duis noster aute amet eram fore quis sint minim.\n                "
+                    ),
+                    _c("i", {
+                      staticClass: "bx bxs-quote-alt-right quote-icon-right"
+                    })
+                  ])
+                ])
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "col-lg-6" }, [
+                _c("div", { staticClass: "testimonial-item mt-4" }, [
+                  _c("img", {
+                    staticClass: "testimonial-img",
+                    attrs: {
+                      src: "assets/img/testimonials/testimonials-4.jpg",
+                      alt: ""
+                    }
+                  }),
+                  _vm._v(" "),
+                  _c("h3", [_vm._v("Matt Brandon")]),
+                  _vm._v(" "),
+                  _c("h4", [_vm._v("Freelancer")]),
+                  _vm._v(" "),
+                  _c("p", [
+                    _c("i", {
+                      staticClass: "bx bxs-quote-alt-left quote-icon-left"
+                    }),
+                    _vm._v(
+                      "\n                Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim fugiat minim velit minim dolor enim duis veniam ipsum anim magna sunt elit fore quem dolore labore illum veniam.\n                "
+                    ),
+                    _c("i", {
+                      staticClass: "bx bxs-quote-alt-right quote-icon-right"
+                    })
+                  ])
+                ])
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "col-lg-6" }, [
+                _c("div", { staticClass: "testimonial-item mt-4" }, [
+                  _c("img", {
+                    staticClass: "testimonial-img",
+                    attrs: {
+                      src: "assets/img/testimonials/testimonials-5.jpg",
+                      alt: ""
+                    }
+                  }),
+                  _vm._v(" "),
+                  _c("h3", [_vm._v("John Larson")]),
+                  _vm._v(" "),
+                  _c("h4", [_vm._v("Entrepreneur")]),
+                  _vm._v(" "),
+                  _c("p", [
+                    _c("i", {
+                      staticClass: "bx bxs-quote-alt-left quote-icon-left"
+                    }),
+                    _vm._v(
+                      "\n                Quis quorum aliqua sint quem legam fore sunt eram irure aliqua veniam tempor noster veniam enim culpa labore duis sunt culpa nulla illum cillum fugiat legam esse veniam culpa fore nisi cillum quid.\n                "
+                    ),
+                    _c("i", {
+                      staticClass: "bx bxs-quote-alt-right quote-icon-right"
+                    })
+                  ])
+                ])
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "col-lg-6" }, [
+                _c("div", { staticClass: "testimonial-item mt-4" }, [
+                  _c("img", {
+                    staticClass: "testimonial-img",
+                    attrs: {
+                      src: "assets/img/testimonials/testimonials-6.jpg",
+                      alt: ""
+                    }
+                  }),
+                  _vm._v(" "),
+                  _c("h3", [_vm._v("Emily Harison")]),
+                  _vm._v(" "),
+                  _c("h4", [_vm._v("Store Owner")]),
+                  _vm._v(" "),
+                  _c("p", [
+                    _c("i", {
+                      staticClass: "bx bxs-quote-alt-left quote-icon-left"
+                    }),
+                    _vm._v(
+                      "\n                Eius ipsam praesentium dolor quaerat inventore rerum odio. Quos laudantium adipisci eius. Accusamus qui iste cupiditate sed temporibus est aspernatur. Sequi officiis ea et quia quidem.\n                "
+                    ),
+                    _c("i", {
+                      staticClass: "bx bxs-quote-alt-right quote-icon-right"
+                    })
+                  ])
+                ])
+              ])
+            ])
+          ])
+        ]
+      )
+    ])
+  }
+]
+render._withStripped = true
+
+
+
+/***/ }),
+
+/***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/pages/contact.vue?vue&type=template&id=c5a493cc&":
+/*!****************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/pages/contact.vue?vue&type=template&id=c5a493cc& ***!
+  \****************************************************************************************************************************************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "render", function() { return render; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return staticRenderFns; });
+var render = function() {
+  var _vm = this
+  var _h = _vm.$createElement
+  var _c = _vm._self._c || _h
+  return _vm._m(0)
+}
+var staticRenderFns = [
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", [
+      _c("main", { attrs: { id: "main" } }, [
+        _c(
+          "section",
+          { staticClass: "breadcrumbs", attrs: { id: "breadcrumbs" } },
+          [
+            _c("div", { staticClass: "container" }, [
+              _c("ol", [
+                _c("li", [
+                  _c("a", { attrs: { href: "index.html" } }, [_vm._v("Home")])
+                ]),
+                _vm._v(" "),
+                _c("li", [_vm._v("Contact")])
+              ]),
+              _vm._v(" "),
+              _c("h2", [_vm._v("Contact")])
+            ])
+          ]
+        ),
+        _vm._v(" "),
+        _c("section", { staticClass: "contact", attrs: { id: "contact" } }, [
+          _c("div", { staticClass: "container" }, [
+            _c("div", { staticClass: "row" }, [
+              _c("div", { staticClass: "col-lg-6" }, [
+                _c("div", { staticClass: "info-box mb-4" }, [
+                  _c("i", { staticClass: "bx bx-map" }),
+                  _vm._v(" "),
+                  _c("h3", [_vm._v("Our Address")]),
+                  _vm._v(" "),
+                  _c("p", [_vm._v("A108 Adam Street, New York, NY 535022")])
+                ])
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "col-lg-3 col-md-6" }, [
+                _c("div", { staticClass: "info-box  mb-4" }, [
+                  _c("i", { staticClass: "bx bx-envelope" }),
+                  _vm._v(" "),
+                  _c("h3", [_vm._v("Email Us")]),
+                  _vm._v(" "),
+                  _c("p", [_vm._v("contact@example.com")])
+                ])
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "col-lg-3 col-md-6" }, [
+                _c("div", { staticClass: "info-box  mb-4" }, [
+                  _c("i", { staticClass: "bx bx-phone-call" }),
+                  _vm._v(" "),
+                  _c("h3", [_vm._v("Call Us")]),
+                  _vm._v(" "),
+                  _c("p", [_vm._v("+1 5589 55488 55")])
+                ])
+              ])
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "row" }, [
+              _c("div", { staticClass: "col-lg-6 " }, [
+                _c("iframe", {
+                  staticClass: "mb-4 mb-lg-0",
+                  staticStyle: { border: "0", width: "100%", height: "384px" },
+                  attrs: {
+                    src:
+                      "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12097.433213460943!2d-74.0062269!3d40.7101282!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb89d1fe6bc499443!2sDowntown+Conference+Center!5e0!3m2!1smk!2sbg!4v1539943755621",
+                    frameborder: "0",
+                    allowfullscreen: ""
+                  }
+                })
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "col-lg-6" }, [
+                _c(
+                  "form",
+                  {
+                    staticClass: "php-email-form",
+                    attrs: {
+                      action: "forms/contact.php",
+                      method: "post",
+                      role: "form"
+                    }
+                  },
+                  [
+                    _c("div", { staticClass: "form-row" }, [
+                      _c("div", { staticClass: "col form-group" }, [
+                        _c("input", {
+                          staticClass: "form-control",
+                          attrs: {
+                            type: "text",
+                            name: "name",
+                            id: "name",
+                            placeholder: "Your Name",
+                            "data-rule": "minlen:4",
+                            "data-msg": "Please enter at least 4 chars"
+                          }
+                        }),
+                        _vm._v(" "),
+                        _c("div", { staticClass: "validate" })
+                      ]),
+                      _vm._v(" "),
+                      _c("div", { staticClass: "col form-group" }, [
+                        _c("input", {
+                          staticClass: "form-control",
+                          attrs: {
+                            type: "email",
+                            name: "email",
+                            id: "email",
+                            placeholder: "Your Email",
+                            "data-rule": "email",
+                            "data-msg": "Please enter a valid email"
+                          }
+                        }),
+                        _vm._v(" "),
+                        _c("div", { staticClass: "validate" })
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "form-group" }, [
+                      _c("input", {
+                        staticClass: "form-control",
+                        attrs: {
+                          type: "text",
+                          name: "subject",
+                          id: "subject",
+                          placeholder: "Subject",
+                          "data-rule": "minlen:4",
+                          "data-msg": "Please enter at least 8 chars of subject"
+                        }
+                      }),
+                      _vm._v(" "),
+                      _c("div", { staticClass: "validate" })
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "form-group" }, [
+                      _c("textarea", {
+                        staticClass: "form-control",
+                        attrs: {
+                          name: "message",
+                          rows: "5",
+                          "data-rule": "required",
+                          "data-msg": "Please write something for us",
+                          placeholder: "Message"
+                        }
+                      }),
+                      _vm._v(" "),
+                      _c("div", { staticClass: "validate" })
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "mb-3" }, [
+                      _c("div", { staticClass: "loading" }, [
+                        _vm._v("Loading")
+                      ]),
+                      _vm._v(" "),
+                      _c("div", { staticClass: "error-message" }),
+                      _vm._v(" "),
+                      _c("div", { staticClass: "sent-message" }, [
+                        _vm._v("Your message has been sent. Thank you!")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "text-center" }, [
+                      _c("button", { attrs: { type: "submit" } }, [
+                        _vm._v("Send Message")
+                      ])
+                    ])
+                  ]
+                )
+              ])
+            ])
+          ])
+        ])
+      ])
+    ])
+  }
+]
+render._withStripped = true
+
+
+
+/***/ }),
+
 /***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/pages/home.vue?vue&type=template&id=b15f8856&":
 /*!*************************************************************************************************************************************************************************************************************!*\
   !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/pages/home.vue?vue&type=template&id=b15f8856& ***!
@@ -66608,12 +67233,12 @@ var staticRenderFns = [
                         _c("div", { staticClass: "carousel-content" }, [
                           _c("h2", { staticClass: "animated fadeInDown" }, [
                             _vm._v("Welcome to "),
-                            _c("span", [_vm._v("Your Company")])
+                            _c("span", [_vm._v("Eterna")])
                           ]),
                           _vm._v(" "),
                           _c("p", { staticClass: "animated fadeInUp" }, [
                             _vm._v(
-                              "We are Your Company. We Export Stones like LC Meghalaya Limestone, Bhutan Black stone-White Stone, Pakur Black Stone, Bhulagonj Boulder crushed and Sylheti Sand ETC."
+                              "Ut velit est quam dolor ad a aliquid qui aliquid. Sequi ea ut et est quaerat sequi nihil ut aliquam. Occaecati alias dolorem mollitia ut. Similique ea voluptatem. Esse doloremque accusamus repellendus deleniti vel. Minus et tempore modi architecto."
                             )
                           ]),
                           _vm._v(" "),
@@ -66642,13 +67267,13 @@ var staticRenderFns = [
                       _c("div", { staticClass: "carousel-container" }, [
                         _c("div", { staticClass: "carousel-content" }, [
                           _c("h2", { staticClass: "animated fadeInDown" }, [
-                            _vm._v("Best Quality "),
-                            _c("span", [_vm._v("Stone")])
+                            _vm._v("Lorem "),
+                            _c("span", [_vm._v("Ipsum Dolor")])
                           ]),
                           _vm._v(" "),
                           _c("p", { staticClass: "animated fadeInUp" }, [
                             _vm._v(
-                              "We ensure the best quality of stone and we are promised to met-up the needs of our customers, we crush in different shapes according to the demand.we provide in the quickest time we can, our service is well known in the local market, we received pre order for stone supply which indicates a great trust of our customers, our supply is being used in various constructions. our local customers and traders are satisfied with our quality product and business deals, we are proud to be an essential part of building constructions as well  as our country.our motto is to build safe and be safe."
+                              "Ut velit est quam dolor ad a aliquid qui aliquid. Sequi ea ut et est quaerat sequi nihil ut aliquam. Occaecati alias dolorem mollitia ut. Similique ea voluptatem. Esse doloremque accusamus repellendus deleniti vel. Minus et tempore modi architecto."
                             )
                           ]),
                           _vm._v(" "),
@@ -66677,13 +67302,13 @@ var staticRenderFns = [
                       _c("div", { staticClass: "carousel-container" }, [
                         _c("div", { staticClass: "carousel-content" }, [
                           _c("h2", { staticClass: "animated fadeInDown" }, [
-                            _vm._v("Responsible to "),
-                            _c("span", [_vm._v("Our Clients")])
+                            _vm._v("Sequi ea "),
+                            _c("span", [_vm._v("Dime Lara")])
                           ]),
                           _vm._v(" "),
                           _c("p", { staticClass: "animated fadeInUp" }, [
                             _vm._v(
-                              " We are aware of our responsibilities, clearly defines goals to deliver on our corporate promise with urgency, passion and energy.         "
+                              "Ut velit est quam dolor ad a aliquid qui aliquid. Sequi ea ut et est quaerat sequi nihil ut aliquam. Occaecati alias dolorem mollitia ut. Similique ea voluptatem. Esse doloremque accusamus repellendus deleniti vel. Minus et tempore modi architecto."
                             )
                           ]),
                           _vm._v(" "),
@@ -66748,96 +67373,563 @@ var staticRenderFns = [
         ])
       ]),
       _vm._v(" "),
-      _c("br"),
-      _vm._v(" "),
       _c("main", { attrs: { id: "main" } }, [
         _c(
           "section",
-          { staticClass: "featured pt-3", attrs: { id: "featured" } },
+          { staticClass: "portfolio", attrs: { id: "portfolio" } },
           [
             _c("div", { staticClass: "container" }, [
               _c("div", { staticClass: "row" }, [
-                _c("div", { staticClass: "col-lg-4" }, [
-                  _c("div", { staticClass: "icon-box" }, [
-                    _c("img", {
-                      staticClass: "img-fluid",
-                      attrs: { src: "/assets/img/stone1.png", alt: "" }
-                    }),
-                    _vm._v(" "),
-                    _c("h3", [
-                      _c("a", { attrs: { href: "" } }, [_vm._v("Stone")])
-                    ]),
-                    _vm._v(" "),
-                    _c("p", [
-                      _vm._v(
-                        "Out of granite and basalt, Granite is used for making concrete and many more construction materials,basalt is used as building blocks."
-                      )
+                _c(
+                  "div",
+                  { staticClass: "col-lg-12 d-flex justify-content-center" },
+                  [
+                    _c("ul", { attrs: { id: "portfolio-flters" } }, [
+                      _c(
+                        "li",
+                        {
+                          staticClass: "filter-active",
+                          attrs: { "data-filter": "*" }
+                        },
+                        [_vm._v("All")]
+                      ),
+                      _vm._v(" "),
+                      _c("li", { attrs: { "data-filter": ".filter-app" } }, [
+                        _vm._v("App")
+                      ]),
+                      _vm._v(" "),
+                      _c("li", { attrs: { "data-filter": ".filter-card" } }, [
+                        _vm._v("Card")
+                      ]),
+                      _vm._v(" "),
+                      _c("li", { attrs: { "data-filter": ".filter-web" } }, [
+                        _vm._v("Web")
+                      ])
                     ])
-                  ])
-                ]),
+                  ]
+                )
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "row portfolio-container" }, [
+                _c(
+                  "div",
+                  {
+                    staticClass: "col-lg-4 col-md-6 portfolio-item filter-app"
+                  },
+                  [
+                    _c("div", { staticClass: "portfolio-wrap" }, [
+                      _c("img", {
+                        staticClass: "img-fluid",
+                        attrs: {
+                          src: "assets/img/portfolio/portfolio-1.jpg",
+                          alt: ""
+                        }
+                      }),
+                      _vm._v(" "),
+                      _c("div", { staticClass: "portfolio-info" }, [
+                        _c("h4", [_vm._v("App 1")]),
+                        _vm._v(" "),
+                        _c("p", [_vm._v("App")]),
+                        _vm._v(" "),
+                        _c("div", { staticClass: "portfolio-links" }, [
+                          _c(
+                            "a",
+                            {
+                              staticClass: "venobox",
+                              attrs: {
+                                href: "assets/img/portfolio/portfolio-1.jpg",
+                                "data-gall": "portfolioGallery",
+                                title: "App 1"
+                              }
+                            },
+                            [_c("i", { staticClass: "bx bx-plus" })]
+                          )
+                        ])
+                      ])
+                    ])
+                  ]
+                ),
                 _vm._v(" "),
-                _c("div", { staticClass: "col-lg-4 mt-4 mt-lg-0" }, [
-                  _c("div", { staticClass: "icon-box" }, [
-                    _c("img", {
-                      staticClass: "img-fluid",
-                      attrs: { src: "/assets/img/brick1.png", alt: "" }
-                    }),
-                    _vm._v(" "),
-                    _c("h3", [
-                      _c("a", { attrs: { href: "" } }, [_vm._v("Brick")])
-                    ]),
-                    _vm._v(" "),
-                    _c("p", [
-                      _vm._v(
-                        "A good quality of bricks should be well burnt and have a colour of rich red or Copper colour, any other colour other than above resembles that brick is under burnt or over-burnt."
-                      )
+                _c(
+                  "div",
+                  {
+                    staticClass: "col-lg-4 col-md-6 portfolio-item filter-web"
+                  },
+                  [
+                    _c("div", { staticClass: "portfolio-wrap" }, [
+                      _c("img", {
+                        staticClass: "img-fluid",
+                        attrs: {
+                          src: "assets/img/portfolio/portfolio-2.jpg",
+                          alt: ""
+                        }
+                      }),
+                      _vm._v(" "),
+                      _c("div", { staticClass: "portfolio-info" }, [
+                        _c("h4", [_vm._v("Web 3")]),
+                        _vm._v(" "),
+                        _c("p", [_vm._v("Web")]),
+                        _vm._v(" "),
+                        _c("div", { staticClass: "portfolio-links" }, [
+                          _c(
+                            "a",
+                            {
+                              staticClass: "venobox",
+                              attrs: {
+                                href: "assets/img/portfolio/portfolio-2.jpg",
+                                "data-gall": "portfolioGallery",
+                                title: "Web 3"
+                              }
+                            },
+                            [_c("i", { staticClass: "bx bx-plus" })]
+                          ),
+                          _vm._v(" "),
+                          _c(
+                            "a",
+                            {
+                              attrs: {
+                                href: "portfolio-details.html",
+                                title: "More Details"
+                              }
+                            },
+                            [_c("i", { staticClass: "bx bx-link" })]
+                          )
+                        ])
+                      ])
                     ])
-                  ])
-                ]),
+                  ]
+                ),
                 _vm._v(" "),
-                _c("div", { staticClass: "col-lg-4 mt-4 mt-lg-0" }, [
-                  _c("div", { staticClass: "icon-box" }, [
-                    _c("img", {
-                      staticClass: "img-fluid",
-                      attrs: { src: "/assets/img/sand3.png", alt: "" }
-                    }),
-                    _vm._v(" "),
-                    _c("br"),
-                    _vm._v(" "),
-                    _c("br"),
-                    _vm._v(" "),
-                    _c("h3", [
-                      _c("a", { attrs: { href: "" } }, [_vm._v("Sand")])
-                    ]),
-                    _vm._v(" "),
-                    _c("p", [
-                      _vm._v(
-                        "River Sand is usually obtained from River Beds and Banks. It is usually very fine in quality and has a white-grey color. River Sand is good for all construction activities like concrete production and plastering as it is well graded. "
-                      )
+                _c(
+                  "div",
+                  {
+                    staticClass: "col-lg-4 col-md-6 portfolio-item filter-app"
+                  },
+                  [
+                    _c("div", { staticClass: "portfolio-wrap" }, [
+                      _c("img", {
+                        staticClass: "img-fluid",
+                        attrs: {
+                          src: "assets/img/portfolio/portfolio-3.jpg",
+                          alt: ""
+                        }
+                      }),
+                      _vm._v(" "),
+                      _c("div", { staticClass: "portfolio-info" }, [
+                        _c("h4", [_vm._v("App 2")]),
+                        _vm._v(" "),
+                        _c("p", [_vm._v("App")]),
+                        _vm._v(" "),
+                        _c("div", { staticClass: "portfolio-links" }, [
+                          _c(
+                            "a",
+                            {
+                              staticClass: "venobox",
+                              attrs: {
+                                href: "assets/img/portfolio/portfolio-3.jpg",
+                                "data-gall": "portfolioGallery",
+                                title: "App 2"
+                              }
+                            },
+                            [_c("i", { staticClass: "bx bx-plus" })]
+                          ),
+                          _vm._v(" "),
+                          _c(
+                            "a",
+                            {
+                              attrs: {
+                                href: "portfolio-details.html",
+                                title: "More Details"
+                              }
+                            },
+                            [_c("i", { staticClass: "bx bx-link" })]
+                          )
+                        ])
+                      ])
                     ])
-                  ])
-                ])
+                  ]
+                ),
+                _vm._v(" "),
+                _c(
+                  "div",
+                  {
+                    staticClass: "col-lg-4 col-md-6 portfolio-item filter-card"
+                  },
+                  [
+                    _c("div", { staticClass: "portfolio-wrap" }, [
+                      _c("img", {
+                        staticClass: "img-fluid",
+                        attrs: {
+                          src: "assets/img/portfolio/portfolio-4.jpg",
+                          alt: ""
+                        }
+                      }),
+                      _vm._v(" "),
+                      _c("div", { staticClass: "portfolio-info" }, [
+                        _c("h4", [_vm._v("Card 2")]),
+                        _vm._v(" "),
+                        _c("p", [_vm._v("Card")]),
+                        _vm._v(" "),
+                        _c("div", { staticClass: "portfolio-links" }, [
+                          _c(
+                            "a",
+                            {
+                              staticClass: "venobox",
+                              attrs: {
+                                href: "assets/img/portfolio/portfolio-4.jpg",
+                                "data-gall": "portfolioGallery",
+                                title: "Card 2"
+                              }
+                            },
+                            [_c("i", { staticClass: "bx bx-plus" })]
+                          ),
+                          _vm._v(" "),
+                          _c(
+                            "a",
+                            {
+                              attrs: {
+                                href: "portfolio-details.html",
+                                title: "More Details"
+                              }
+                            },
+                            [_c("i", { staticClass: "bx bx-link" })]
+                          )
+                        ])
+                      ])
+                    ])
+                  ]
+                ),
+                _vm._v(" "),
+                _c(
+                  "div",
+                  {
+                    staticClass: "col-lg-4 col-md-6 portfolio-item filter-web"
+                  },
+                  [
+                    _c("div", { staticClass: "portfolio-wrap" }, [
+                      _c("img", {
+                        staticClass: "img-fluid",
+                        attrs: {
+                          src: "assets/img/portfolio/portfolio-5.jpg",
+                          alt: ""
+                        }
+                      }),
+                      _vm._v(" "),
+                      _c("div", { staticClass: "portfolio-info" }, [
+                        _c("h4", [_vm._v("Web 2")]),
+                        _vm._v(" "),
+                        _c("p", [_vm._v("Web")]),
+                        _vm._v(" "),
+                        _c("div", { staticClass: "portfolio-links" }, [
+                          _c(
+                            "a",
+                            {
+                              staticClass: "venobox",
+                              attrs: {
+                                href: "assets/img/portfolio/portfolio-5.jpg",
+                                "data-gall": "portfolioGallery",
+                                title: "Web 2"
+                              }
+                            },
+                            [_c("i", { staticClass: "bx bx-plus" })]
+                          ),
+                          _vm._v(" "),
+                          _c(
+                            "a",
+                            {
+                              attrs: {
+                                href: "portfolio-details.html",
+                                title: "More Details"
+                              }
+                            },
+                            [_c("i", { staticClass: "bx bx-link" })]
+                          )
+                        ])
+                      ])
+                    ])
+                  ]
+                ),
+                _vm._v(" "),
+                _c(
+                  "div",
+                  {
+                    staticClass: "col-lg-4 col-md-6 portfolio-item filter-app"
+                  },
+                  [
+                    _c("div", { staticClass: "portfolio-wrap" }, [
+                      _c("img", {
+                        staticClass: "img-fluid",
+                        attrs: {
+                          src: "assets/img/portfolio/portfolio-6.jpg",
+                          alt: ""
+                        }
+                      }),
+                      _vm._v(" "),
+                      _c("div", { staticClass: "portfolio-info" }, [
+                        _c("h4", [_vm._v("App 3")]),
+                        _vm._v(" "),
+                        _c("p", [_vm._v("App")]),
+                        _vm._v(" "),
+                        _c("div", { staticClass: "portfolio-links" }, [
+                          _c(
+                            "a",
+                            {
+                              staticClass: "venobox",
+                              attrs: {
+                                href: "assets/img/portfolio/portfolio-6.jpg",
+                                "data-gall": "portfolioGallery",
+                                title: "App 3"
+                              }
+                            },
+                            [_c("i", { staticClass: "bx bx-plus" })]
+                          ),
+                          _vm._v(" "),
+                          _c(
+                            "a",
+                            {
+                              attrs: {
+                                href: "portfolio-details.html",
+                                title: "More Details"
+                              }
+                            },
+                            [_c("i", { staticClass: "bx bx-link" })]
+                          )
+                        ])
+                      ])
+                    ])
+                  ]
+                ),
+                _vm._v(" "),
+                _c(
+                  "div",
+                  {
+                    staticClass: "col-lg-4 col-md-6 portfolio-item filter-card"
+                  },
+                  [
+                    _c("div", { staticClass: "portfolio-wrap" }, [
+                      _c("img", {
+                        staticClass: "img-fluid",
+                        attrs: {
+                          src: "assets/img/portfolio/portfolio-7.jpg",
+                          alt: ""
+                        }
+                      }),
+                      _vm._v(" "),
+                      _c("div", { staticClass: "portfolio-info" }, [
+                        _c("h4", [_vm._v("Card 1")]),
+                        _vm._v(" "),
+                        _c("p", [_vm._v("Card")]),
+                        _vm._v(" "),
+                        _c("div", { staticClass: "portfolio-links" }, [
+                          _c(
+                            "a",
+                            {
+                              staticClass: "venobox",
+                              attrs: {
+                                href: "assets/img/portfolio/portfolio-7.jpg",
+                                "data-gall": "portfolioGallery",
+                                title: "Card 1"
+                              }
+                            },
+                            [_c("i", { staticClass: "bx bx-plus" })]
+                          ),
+                          _vm._v(" "),
+                          _c(
+                            "a",
+                            {
+                              attrs: {
+                                href: "portfolio-details.html",
+                                title: "More Details"
+                              }
+                            },
+                            [_c("i", { staticClass: "bx bx-link" })]
+                          )
+                        ])
+                      ])
+                    ])
+                  ]
+                ),
+                _vm._v(" "),
+                _c(
+                  "div",
+                  {
+                    staticClass: "col-lg-4 col-md-6 portfolio-item filter-card"
+                  },
+                  [
+                    _c("div", { staticClass: "portfolio-wrap" }, [
+                      _c("img", {
+                        staticClass: "img-fluid",
+                        attrs: {
+                          src: "assets/img/portfolio/portfolio-8.jpg",
+                          alt: ""
+                        }
+                      }),
+                      _vm._v(" "),
+                      _c("div", { staticClass: "portfolio-info" }, [
+                        _c("h4", [_vm._v("Card 3")]),
+                        _vm._v(" "),
+                        _c("p", [_vm._v("Card")]),
+                        _vm._v(" "),
+                        _c("div", { staticClass: "portfolio-links" }, [
+                          _c(
+                            "a",
+                            {
+                              staticClass: "venobox",
+                              attrs: {
+                                href: "assets/img/portfolio/portfolio-8.jpg",
+                                "data-gall": "portfolioGallery",
+                                title: "Card 3"
+                              }
+                            },
+                            [_c("i", { staticClass: "bx bx-plus" })]
+                          ),
+                          _vm._v(" "),
+                          _c(
+                            "a",
+                            {
+                              attrs: {
+                                href: "portfolio-details.html",
+                                title: "More Details"
+                              }
+                            },
+                            [_c("i", { staticClass: "bx bx-link" })]
+                          )
+                        ])
+                      ])
+                    ])
+                  ]
+                ),
+                _vm._v(" "),
+                _c(
+                  "div",
+                  {
+                    staticClass: "col-lg-4 col-md-6 portfolio-item filter-web"
+                  },
+                  [
+                    _c("div", { staticClass: "portfolio-wrap" }, [
+                      _c("img", {
+                        staticClass: "img-fluid",
+                        attrs: {
+                          src: "assets/img/portfolio/portfolio-9.jpg",
+                          alt: ""
+                        }
+                      }),
+                      _vm._v(" "),
+                      _c("div", { staticClass: "portfolio-info" }, [
+                        _c("h4", [_vm._v("Web 3")]),
+                        _vm._v(" "),
+                        _c("p", [_vm._v("Web")]),
+                        _vm._v(" "),
+                        _c("div", { staticClass: "portfolio-links" }, [
+                          _c(
+                            "a",
+                            {
+                              staticClass: "venobox",
+                              attrs: {
+                                href: "assets/img/portfolio/portfolio-9.jpg",
+                                "data-gall": "portfolioGallery",
+                                title: "Web 3"
+                              }
+                            },
+                            [_c("i", { staticClass: "bx bx-plus" })]
+                          ),
+                          _vm._v(" "),
+                          _c(
+                            "a",
+                            {
+                              attrs: {
+                                href: "portfolio-details.html",
+                                title: "More Details"
+                              }
+                            },
+                            [_c("i", { staticClass: "bx bx-link" })]
+                          )
+                        ])
+                      ])
+                    ])
+                  ]
+                )
               ])
             ])
           ]
         ),
         _vm._v(" "),
+        _c("section", { staticClass: "featured", attrs: { id: "featured" } }, [
+          _c("div", { staticClass: "container" }, [
+            _c("div", { staticClass: "row" }, [
+              _c("div", { staticClass: "col-lg-4" }, [
+                _c("div", { staticClass: "icon-box" }, [
+                  _c("i", { staticClass: "icofont-computer" }),
+                  _vm._v(" "),
+                  _c("h3", [
+                    _c("a", { attrs: { href: "" } }, [_vm._v("Lorem Ipsum")])
+                  ]),
+                  _vm._v(" "),
+                  _c("p", [
+                    _vm._v(
+                      "Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident"
+                    )
+                  ])
+                ])
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "col-lg-4 mt-4 mt-lg-0" }, [
+                _c("div", { staticClass: "icon-box" }, [
+                  _c("i", { staticClass: "icofont-image" }),
+                  _vm._v(" "),
+                  _c("h3", [
+                    _c("a", { attrs: { href: "" } }, [_vm._v("Dolor Sitema")])
+                  ]),
+                  _vm._v(" "),
+                  _c("p", [
+                    _vm._v(
+                      "Minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat tarad limino ata"
+                    )
+                  ])
+                ])
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "col-lg-4 mt-4 mt-lg-0" }, [
+                _c("div", { staticClass: "icon-box" }, [
+                  _c("i", { staticClass: "icofont-tasks-alt" }),
+                  _vm._v(" "),
+                  _c("h3", [
+                    _c("a", { attrs: { href: "" } }, [
+                      _vm._v("Sed ut perspiciatis")
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("p", [
+                    _vm._v(
+                      "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur"
+                    )
+                  ])
+                ])
+              ])
+            ])
+          ])
+        ]),
+        _vm._v(" "),
         _c("section", { staticClass: "about", attrs: { id: "about" } }, [
           _c("div", { staticClass: "container" }, [
-            _c("div", { staticClass: "row pt-3" }, [
+            _c("div", { staticClass: "row" }, [
               _c("div", { staticClass: "col-lg-6" }, [
                 _c("img", {
                   staticClass: "img-fluid",
-                  attrs: { src: "/assets/img/why.png", alt: "" }
+                  attrs: { src: "assets/img/about.jpg", alt: "" }
                 })
               ]),
               _vm._v(" "),
               _c("div", { staticClass: "col-lg-6 pt-4 pt-lg-0 content" }, [
-                _c("h3", [_vm._v("Why Clients choose us?")]),
+                _c("h3", [
+                  _vm._v(
+                    "Voluptatem dignissimos provident quasi corporis voluptates sit assumenda."
+                  )
+                ]),
                 _vm._v(" "),
                 _c("p", { staticClass: "font-italic" }, [
                   _vm._v(
-                    "\n                    We ensure the best quality of stone and we are promised to met-up the needs of our customers, we crush in different shapes according to the demand.we provide in the quickest time we can, our service is well known in the local market, we received pre order for stone supply which indicates a great trust of our customers, our supply is being used in various constructions. our local customers and traders are satisfied with our quality product and business deals, we are proud to be an essential part of building constructions as well as our country.our motto is to build safe and be safe.\n                    "
+                    "\n                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore\n                magna aliqua.\n                "
                   )
                 ]),
                 _vm._v(" "),
@@ -66845,23 +67937,245 @@ var staticRenderFns = [
                   _c("li", [
                     _c("i", { staticClass: "icofont-check-circled" }),
                     _vm._v(
-                      " Being efficient is vital for us to help our customers save time and money. "
+                      " Ullamco laboris nisi ut aliquip ex ea commodo consequat."
                     )
                   ]),
                   _vm._v(" "),
                   _c("li", [
                     _c("i", { staticClass: "icofont-check-circled" }),
                     _vm._v(
-                      " Every project that we work on is important for us. No matter if it’s a dollar or thousands, we always apply the highest standards of quality and work ethics from start to finish. "
+                      " Duis aute irure dolor in reprehenderit in voluptate velit."
                     )
                   ]),
                   _vm._v(" "),
                   _c("li", [
                     _c("i", { staticClass: "icofont-check-circled" }),
-                    _vm._v(" Exceptional customer care is a must for us. ")
+                    _vm._v(
+                      " Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat nulla pariatur."
+                    )
                   ])
+                ]),
+                _vm._v(" "),
+                _c("p", [
+                  _vm._v(
+                    "\n                Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate\n                velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in\n                culpa qui officia deserunt mollit anim id est laborum\n                "
+                  )
                 ])
               ])
+            ])
+          ])
+        ]),
+        _vm._v(" "),
+        _c("section", { staticClass: "services", attrs: { id: "services" } }, [
+          _c("div", { staticClass: "container" }, [
+            _c(
+              "div",
+              {
+                staticClass: "section-title",
+                attrs: { "data-aos": "fade-up" }
+              },
+              [_c("h2", [_vm._v("Our Services")])]
+            ),
+            _vm._v(" "),
+            _c("div", { staticClass: "row" }, [
+              _c(
+                "div",
+                { staticClass: "col-lg-4 col-md-6 d-flex align-items-stretch" },
+                [
+                  _c("div", { staticClass: "icon-box" }, [
+                    _c("div", { staticClass: "icon" }, [
+                      _c("i", { staticClass: "bx bxl-dribbble" })
+                    ]),
+                    _vm._v(" "),
+                    _c("h4", [
+                      _c("a", { attrs: { href: "" } }, [_vm._v("Lorem Ipsum")])
+                    ]),
+                    _vm._v(" "),
+                    _c("p", [
+                      _vm._v(
+                        "Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi"
+                      )
+                    ])
+                  ])
+                ]
+              ),
+              _vm._v(" "),
+              _c(
+                "div",
+                {
+                  staticClass:
+                    "col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0"
+                },
+                [
+                  _c("div", { staticClass: "icon-box" }, [
+                    _c("div", { staticClass: "icon" }, [
+                      _c("i", { staticClass: "bx bx-file" })
+                    ]),
+                    _vm._v(" "),
+                    _c("h4", [
+                      _c("a", { attrs: { href: "" } }, [
+                        _vm._v("Sed ut perspiciatis")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("p", [
+                      _vm._v(
+                        "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore"
+                      )
+                    ])
+                  ])
+                ]
+              ),
+              _vm._v(" "),
+              _c(
+                "div",
+                {
+                  staticClass:
+                    "col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0"
+                },
+                [
+                  _c("div", { staticClass: "icon-box" }, [
+                    _c("div", { staticClass: "icon" }, [
+                      _c("i", { staticClass: "bx bx-tachometer" })
+                    ]),
+                    _vm._v(" "),
+                    _c("h4", [
+                      _c("a", { attrs: { href: "" } }, [
+                        _vm._v("Magni Dolores")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("p", [
+                      _vm._v(
+                        "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia"
+                      )
+                    ])
+                  ])
+                ]
+              ),
+              _vm._v(" "),
+              _c(
+                "div",
+                {
+                  staticClass:
+                    "col-lg-4 col-md-6 d-flex align-items-stretch mt-4"
+                },
+                [
+                  _c("div", { staticClass: "icon-box" }, [
+                    _c("div", { staticClass: "icon" }, [
+                      _c("i", { staticClass: "bx bx-world" })
+                    ]),
+                    _vm._v(" "),
+                    _c("h4", [
+                      _c("a", { attrs: { href: "" } }, [_vm._v("Nemo Enim")])
+                    ]),
+                    _vm._v(" "),
+                    _c("p", [
+                      _vm._v(
+                        "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis"
+                      )
+                    ])
+                  ])
+                ]
+              ),
+              _vm._v(" "),
+              _c(
+                "div",
+                {
+                  staticClass:
+                    "col-lg-4 col-md-6 d-flex align-items-stretch mt-4"
+                },
+                [
+                  _c("div", { staticClass: "icon-box" }, [
+                    _c("div", { staticClass: "icon" }, [
+                      _c("i", { staticClass: "bx bx-slideshow" })
+                    ]),
+                    _vm._v(" "),
+                    _c("h4", [
+                      _c("a", { attrs: { href: "" } }, [_vm._v("Dele cardo")])
+                    ]),
+                    _vm._v(" "),
+                    _c("p", [
+                      _vm._v(
+                        "Quis consequatur saepe eligendi voluptatem consequatur dolor consequuntur"
+                      )
+                    ])
+                  ])
+                ]
+              ),
+              _vm._v(" "),
+              _c(
+                "div",
+                {
+                  staticClass:
+                    "col-lg-4 col-md-6 d-flex align-items-stretch mt-4"
+                },
+                [
+                  _c("div", { staticClass: "icon-box" }, [
+                    _c("div", { staticClass: "icon" }, [
+                      _c("i", { staticClass: "bx bx-arch" })
+                    ]),
+                    _vm._v(" "),
+                    _c("h4", [
+                      _c("a", { attrs: { href: "" } }, [_vm._v("Divera don")])
+                    ]),
+                    _vm._v(" "),
+                    _c("p", [
+                      _vm._v(
+                        "Modi nostrum vel laborum. Porro fugit error sit minus sapiente sit aspernatur"
+                      )
+                    ])
+                  ])
+                ]
+              )
+            ])
+          ])
+        ]),
+        _vm._v(" "),
+        _c("section", { staticClass: "clients", attrs: { id: "clients" } }, [
+          _c("div", { staticClass: "container" }, [
+            _c("div", { staticClass: "section-title" }, [
+              _c("h2", [_vm._v("Clients")]),
+              _vm._v(" "),
+              _c("p", [
+                _vm._v(
+                  "Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas."
+                )
+              ])
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "owl-carousel clients-carousel" }, [
+              _c("img", {
+                attrs: { src: "assets/img/clients/client-1.png", alt: "" }
+              }),
+              _vm._v(" "),
+              _c("img", {
+                attrs: { src: "assets/img/clients/client-2.png", alt: "" }
+              }),
+              _vm._v(" "),
+              _c("img", {
+                attrs: { src: "assets/img/clients/client-3.png", alt: "" }
+              }),
+              _vm._v(" "),
+              _c("img", {
+                attrs: { src: "assets/img/clients/client-4.png", alt: "" }
+              }),
+              _vm._v(" "),
+              _c("img", {
+                attrs: { src: "assets/img/clients/client-5.png", alt: "" }
+              }),
+              _vm._v(" "),
+              _c("img", {
+                attrs: { src: "assets/img/clients/client-6.png", alt: "" }
+              }),
+              _vm._v(" "),
+              _c("img", {
+                attrs: { src: "assets/img/clients/client-7.png", alt: "" }
+              }),
+              _vm._v(" "),
+              _c("img", {
+                attrs: { src: "assets/img/clients/client-8.png", alt: "" }
+              })
             ])
           ])
         ])
@@ -83267,6 +84581,112 @@ __webpack_require__.r(__webpack_exports__);
 
 /***/ }),
 
+/***/ "./resources/js/components/pages/about.vue":
+/*!*************************************************!*\
+  !*** ./resources/js/components/pages/about.vue ***!
+  \*************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _about_vue_vue_type_template_id_773ca787___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./about.vue?vue&type=template&id=773ca787& */ "./resources/js/components/pages/about.vue?vue&type=template&id=773ca787&");
+/* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../../../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js");
+
+var script = {}
+
+
+/* normalize component */
+
+var component = Object(_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_1__["default"])(
+  script,
+  _about_vue_vue_type_template_id_773ca787___WEBPACK_IMPORTED_MODULE_0__["render"],
+  _about_vue_vue_type_template_id_773ca787___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"],
+  false,
+  null,
+  null,
+  null
+  
+)
+
+/* hot reload */
+if (false) { var api; }
+component.options.__file = "resources/js/components/pages/about.vue"
+/* harmony default export */ __webpack_exports__["default"] = (component.exports);
+
+/***/ }),
+
+/***/ "./resources/js/components/pages/about.vue?vue&type=template&id=773ca787&":
+/*!********************************************************************************!*\
+  !*** ./resources/js/components/pages/about.vue?vue&type=template&id=773ca787& ***!
+  \********************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_about_vue_vue_type_template_id_773ca787___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../../../../node_modules/vue-loader/lib??vue-loader-options!./about.vue?vue&type=template&id=773ca787& */ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/pages/about.vue?vue&type=template&id=773ca787&");
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "render", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_about_vue_vue_type_template_id_773ca787___WEBPACK_IMPORTED_MODULE_0__["render"]; });
+
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_about_vue_vue_type_template_id_773ca787___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"]; });
+
+
+
+/***/ }),
+
+/***/ "./resources/js/components/pages/contact.vue":
+/*!***************************************************!*\
+  !*** ./resources/js/components/pages/contact.vue ***!
+  \***************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _contact_vue_vue_type_template_id_c5a493cc___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./contact.vue?vue&type=template&id=c5a493cc& */ "./resources/js/components/pages/contact.vue?vue&type=template&id=c5a493cc&");
+/* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../../../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js");
+
+var script = {}
+
+
+/* normalize component */
+
+var component = Object(_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_1__["default"])(
+  script,
+  _contact_vue_vue_type_template_id_c5a493cc___WEBPACK_IMPORTED_MODULE_0__["render"],
+  _contact_vue_vue_type_template_id_c5a493cc___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"],
+  false,
+  null,
+  null,
+  null
+  
+)
+
+/* hot reload */
+if (false) { var api; }
+component.options.__file = "resources/js/components/pages/contact.vue"
+/* harmony default export */ __webpack_exports__["default"] = (component.exports);
+
+/***/ }),
+
+/***/ "./resources/js/components/pages/contact.vue?vue&type=template&id=c5a493cc&":
+/*!**********************************************************************************!*\
+  !*** ./resources/js/components/pages/contact.vue?vue&type=template&id=c5a493cc& ***!
+  \**********************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_contact_vue_vue_type_template_id_c5a493cc___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../../../../node_modules/vue-loader/lib??vue-loader-options!./contact.vue?vue&type=template&id=c5a493cc& */ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/pages/contact.vue?vue&type=template&id=c5a493cc&");
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "render", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_contact_vue_vue_type_template_id_c5a493cc___WEBPACK_IMPORTED_MODULE_0__["render"]; });
+
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_contact_vue_vue_type_template_id_c5a493cc___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"]; });
+
+
+
+/***/ }),
+
 /***/ "./resources/js/components/pages/home.vue":
 /*!************************************************!*\
   !*** ./resources/js/components/pages/home.vue ***!
@@ -83333,9 +84753,13 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var vue__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! vue */ "./node_modules/vue/dist/vue.common.js");
 /* harmony import */ var vue__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(vue__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var _components_pages_home__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./components/pages/home */ "./resources/js/components/pages/home.vue");
+/* harmony import */ var _components_pages_about__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./components/pages/about */ "./resources/js/components/pages/about.vue");
+/* harmony import */ var _components_pages_contact__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./components/pages/contact */ "./resources/js/components/pages/contact.vue");
 
 
 vue__WEBPACK_IMPORTED_MODULE_1___default.a.use(vue_router__WEBPACK_IMPORTED_MODULE_0__["default"]); // admin project pages 
+
+
 
  // import header from './components/header'
 
@@ -83344,6 +84768,14 @@ var routes = [//projects routes....
   path: '/',
   component: _components_pages_home__WEBPACK_IMPORTED_MODULE_2__["default"],
   name: 'home'
+}, {
+  path: '/about',
+  component: _components_pages_about__WEBPACK_IMPORTED_MODULE_3__["default"],
+  name: 'about'
+}, {
+  path: '/contact',
+  component: _components_pages_contact__WEBPACK_IMPORTED_MODULE_4__["default"],
+  name: 'contact'
 }];
 /* harmony default export */ __webpack_exports__["default"] = (new vue_router__WEBPACK_IMPORTED_MODULE_0__["default"]({
   mode: 'history',
@@ -83425,7 +84857,7 @@ vue__WEBPACK_IMPORTED_MODULE_0___default.a.use(vuex__WEBPACK_IMPORTED_MODULE_1__
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! /media/rasel/WorkStation/Laravel-Vue/laravel-vue-admin-master/resources/js/app.js */"./resources/js/app.js");
+module.exports = __webpack_require__(/*! /media/rasel/WorkStation/Laravel-Vue/portfolio/Company-Portfolio/resources/js/app.js */"./resources/js/app.js");
 
 
 /***/ })
